@@ -1,0 +1,25 @@
+* {
+    font-family: serif, "Times New Roman", sans-serif;
+}
+
+body {
+    width: 800px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.recipe-container h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+img {
+    width: 800px;
+    height: auto;
+}
+
+.recipe-container {
+    background-color: rgb(230, 230, 230);
+}
